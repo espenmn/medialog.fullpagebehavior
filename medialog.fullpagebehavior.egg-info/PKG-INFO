@@ -1,0 +1,31 @@
+Metadata-Version: 1.1
+Name: medialog.fullpagebehavior
+Version: 0.1
+Summary: A behavior to add richtect tuple field and a fullpage view
+Home-page: http://github.com/espenmn/medialog.fullpagebehavior
+Author: Espen Moe-Nilssen
+Author-email: espen@medialog.no
+License: gpl
+Description: medialog.photosbehavior
+        =======================
+        
+        A behavior that let you add as many rich text fields to a content item as you want
+        
+        Short demo:
+        ===========
+        TO do
+        
+        Author
+        ======
+        
+        Espen Moe-Nilssen, Grieg Medialog AS
+        
+        
+        
+        Contributors
+        ============
+        
+        
+Keywords: behavior rich text fields medialog plone
+Platform: UNKNOWN
+Classifier: Programming Language :: Python

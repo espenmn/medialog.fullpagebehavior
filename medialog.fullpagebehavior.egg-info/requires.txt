@@ -1,0 +1,4 @@
+plone.dexterity
+collective.z3cform.datagridfield
+plone.directives.form
+plone.behavior
